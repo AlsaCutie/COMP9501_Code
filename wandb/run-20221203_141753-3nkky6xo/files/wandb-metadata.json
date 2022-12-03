@@ -1,0 +1,211 @@
+{
+    "os": "Linux-5.15.0-52-generic-x86_64-with-glibc2.10",
+    "python": "3.8.5",
+    "heartbeatAt": "2022-12-03T06:17:54.441040",
+    "startedAt": "2022-12-03T06:17:53.338458",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "train_reshape.py",
+    "codePath": "train_reshape.py",
+    "host": "user-Super-Server",
+    "username": "wzx",
+    "executable": "/home/wzx/miniconda3/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2834.1608125000007,
+        "min": 800.0,
+        "max": 4000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3400.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 900.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3700.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3700.001,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3400.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3700.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2661.182,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 4000.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2652.847,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2533.802,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3699.998,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 4000.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3700.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 900.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2200.428,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3700.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2289.494,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3700.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 900.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 4000.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 4000.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2333.854,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 4000.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 4000.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3256.167,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2751.538,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1000.0,
+            "min": 800.0,
+            "max": 4000.0
+        }
+    ],
+    "disk": {
+        "total": 1832.2072105407715,
+        "used": 241.5164566040039
+    },
+    "gpu": "NVIDIA GeForce RTX 3080 Ti",
+    "gpu_count": 4,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080 Ti",
+            "memory_total": 12884901888
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3080 Ti",
+            "memory_total": 12884901888
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3080 Ti",
+            "memory_total": 12884901888
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3080 Ti",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 188.08101654052734
+    }
+}
